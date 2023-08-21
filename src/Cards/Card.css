@@ -1,0 +1,32 @@
+.card {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+img {
+    height: 20rem;
+}
+
+.info {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.movie-title {
+    text-align: left;
+}
+
+.flex {
+    display: flex;
+}
+
+.release-info span{
+    color: gray;
+}
+
+.release-date {
+    padding: 5px 10px;
+    background-color: rgba(128, 128, 128, 0.267);
+    border-radius: 10px;
+}
